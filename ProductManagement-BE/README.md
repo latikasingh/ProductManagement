@@ -1,8 +1,10 @@
 **ProductManagement**
 
-Technology:-NodeJs, mongodb, express, jsonwebtoken, bcryptjs, express-jwt
+    Technology:-
+    
+      • NodeJs, mongodb, express, jsonwebtoken, bcryptjs, express-jwt
 
-Created project using yarn.
+ Created project using yarn.
 
 
 **System configuration:-**
