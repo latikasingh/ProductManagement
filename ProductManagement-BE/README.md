@@ -17,7 +17,7 @@
     • Develop the endpoints for the products.
     • Product management is a manage product with role base authentication.
     • Follow MVC structure.
-    • Admin can register with api /user/createUser (we can also create seeding in mongodb but it is time consuming for this task).
+    • Admin can register with api /user/createUser (we can also create seeding in mongodb for add admin but it is time consuming for this task).
     • Admin can access this product(insert,update,delete and view).
     • User can only view product list.
       
