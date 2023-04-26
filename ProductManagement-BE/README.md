@@ -1,14 +1,15 @@
-ProductManagement
+**ProductManagement**
 
 Technology:-NodeJs, mongodb, express, jsonwebtoken, bcryptjs, express-jwt
 
 Created project using yarn.
 
 
-System configuration:-
+**System configuration:-**
+
      • Must have mongodb installed.
     
-Overview:-
+**Overview:-**
 
     • Implement role base authentication with jsonwebtoken and express-jwt authentication mechanism.
     • Develop the endpoints for the products.
@@ -19,21 +20,22 @@ Overview:-
     • User can only view product list.
       
 
-Env Setup:-
+**Env Setup:-**
+
     • Added dev.env file into the root config folder
            Added below content:
                 PORT=3001
                 MONGODB_URL="mongodb://localhost:27017/productManagement"
                 JWT_SECRET="this is secret for my app"
 
-Steps to start backend:-
+**Steps to start backend:-**
                  
     • yarn install (install the node module)
     • yarn start (to start application)
 
 
 
-Endpoints:-
+**Endpoints:-**
      
     • /user/login
         Manage role base login
